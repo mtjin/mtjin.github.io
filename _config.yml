@@ -4,7 +4,7 @@
 title: mtjin's Website
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: mtjin github io
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -68,10 +68,10 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "yakumin112@enaver.com"
+  facebook: secret
+  github: https://github.com/mtjin
+  twitter: no twitter
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
